@@ -1,0 +1,6 @@
+<?php
+$i = 25;
+do {
+    echo $i;
+} while ($i > 0);
+?>
