@@ -1,0 +1,19 @@
+<?php
+
+$a=5;
+$b=10;
+switch($a){
+    case 15:
+        echo "sum is".($a+$b);
+    break;
+    case 50:
+        echo "mutiplication is".($a*$b);
+    break;
+    case 5:
+        echo "difference is".($b-$a);
+    break;
+    default:
+        echo "the sum is an integer";
+}
+
+?>
