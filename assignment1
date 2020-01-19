@@ -1,0 +1,21 @@
+
+?>
+<?php
+$a=3;
+$b=5;
+if($a<1){
+    echo "the difference is ".($b-$a);
+
+}else{
+    echo 0;
+}
+?>
+<?php
+$a=3;
+$b=5;
+if($a>1){
+    echo "the product is ".($a*$b);
+
+}else{
+    echo 3;
+}
